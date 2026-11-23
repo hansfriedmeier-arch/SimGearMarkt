@@ -1,0 +1,20 @@
+## Interface: 16001
+## Title: SimGear Markt
+## Notes: Gear upgrades from your Auctionator/Auctioneer prices that you can wear and afford, scored by SimGear Forever. /sgm
+## Notes-deDE: Ausrüstungs-Upgrades aus deinen Auctionator-/Auctioneer-Preisen, die du tragen und bezahlen kannst, bewertet von SimGear Forever. /sgm
+## Author: Nexxo-Ashenbow, Claude
+## Version: 1.5.4
+## OptionalDeps: SimGearForever, Auctionator, Auc-Advanced
+## IconTexture: Interface\Icons\INV_Misc_Coin_02
+## AddonCompartmentFunc: SimGearMarkt_OnAddonCompartmentClick
+## SavedVariables: SimGearMarktDB
+## SavedVariablesPerCharacter: SimGearMarktCharDB
+
+Core.lua
+Sources.lua
+Scan.lua
+Set.lua
+Buy.lua
+UI.lua
+Options.lua
+MinimapButton.lua
